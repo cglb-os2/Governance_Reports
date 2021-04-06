@@ -5,6 +5,9 @@
 Du udfylder checklisten ved at skrive et x i de tomme [ ] ud for de krav produktet opfylder samt udfylder henvisningen. Henvisningen må meget gerne være links, der forkortes via XX (url shortner). 
 
 
+
+
+
 **RELEVANS**
 
 |     | Krav | Henvisning | Niveau | 
@@ -13,7 +16,8 @@ Du udfylder checklisten ved at skrive et x i de tomme [ ] ud for de krav produkt
 | <ul><li> [ ] </li> | Løsningen skaber potentielt værdi for andre | Hvordan? Kan udfyldes | 1 | 
 | <ul><li> [ ] </li> | Løsningen er accepteret af lokal linjeledelse | | 2 |
 | <ul><li> [ ] </li> | _Løsningen har tværkommunal potentiale (ikke et krav)_ | Hvordan? Kan udfyldes| 2 |
-| <ul><li> [ ] </li> |  |  | 0 |
+| <ul><li> [ ] </li> | Ophæng til nationale strategier er til stede |  | 3 |
+
 
 
 
@@ -42,8 +46,11 @@ Du udfylder checklisten ved at skrive et x i de tomme [ ] ud for de krav produkt
 | <ul><li> [ ] </li> | Rammearkitekturen og standarder er fulgt og afvigelser er forklaret |  | 2 |
 | <ul><li> [ ] </li> | _Løsningen er leveret i et containerformat fx docker (ikke et krav)_ |  | 2 |
 | <ul><li> [ ] </li> | _Uddanelses materiale er udarbejdet (ikke et krav)_ | Hvor? | 2 |
-  
-  
+| <ul><li> [ ] </li> | Politisk kommunikation er udarbejdet (Lokal + Omverden) | Hvor? | 3 |
+| <ul><li> [ ] </li> | Procesplan + procesansvar for driftsimplementering er udarbejdet (Altid relevant?) | Hvor? | 3 |  
+
+
+
 
 
 **STRATEGISK SAMMENHÆNG**
@@ -53,7 +60,11 @@ Du udfylder checklisten ved at skrive et x i de tomme [ ] ud for de krav produkt
 | <ul><li> [ ] </li> | Produktet har en kobling til OS2's strategi | Kan udfyldes | 1 |
 | <ul><li> [ ] </li> | Løsningen understøtter innovation og Open Source | Hvordan? | 1 |
 | <ul><li> [ ] </li> | Produktets kobling til OS2's vision og strategi er beskrevet | Hvor? | 2 |
+| <ul><li> [ ] </li> | Produktets kobling til OS2's vision og strategi er tilstede og beskrevet (duplicate?) | Hvor? | 3 |
+| <ul><li> [ ] </li> | _Produktet har en strategisk sammenhæng til nationale initiativer (ikke et krav)_ | | 3 |
 
+  
+  
   
 
 **GOVERNANCE**
@@ -70,4 +81,8 @@ Du udfylder checklisten ved at skrive et x i de tomme [ ] ud for de krav produkt
 | <ul><li> [ ] </li> | _Projektmodellen er dokumenteret (ikke et krav)_ | Hvor? | 2 |
 | <ul><li> [ ] </li> | _Review af kode foretages af tredjepart (ikke et krav)_ |  | 2 |
 | <ul><li> [ ] </li> | _Der er udarbejdet en tilslutningserklæring til sikring af økonomi (ikke et krav)_ | Hvor? | 2 |
+| <ul><li> [ ] </li> | Bestyrelsen har godkendt styregruppen |  | 3 |
+| <ul><li> [ ] </li> | Bestyrelsen har stemmemajoritet i styregruppen |  | 3 |
+| <ul><li> [ ] </li> | Der foreligger en aftale der sikre økonomi til koordinerg og videreudvikling |  | 3 |
+| <ul><li> [ ] </li> | Der er etableret en faggruppe (Altid relevant?) |  | 3 |
   
