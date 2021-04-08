@@ -4,13 +4,13 @@
 
 **RELEVANS**
 
-|   #  |     | Krav | Henvisning | Niveau | 
+|     |  #  | Krav | Henvisning | Niveau | 
 | --- | --- | --- | --- | --- |
-| R1| <ul><li> [x] </li> | Løsningen skaber lokal værdi | Se [gevinstkort](https://os2.eu/produkt/os2iot) | 0 |
-| <ul><li> [x] </li> | Løsningen skaber potentielt værdi for andre | Se evt. [folderen om OS2iot](shorturl.at/nqrFS) | 1 | 
-| <ul><li> [ ] </li> | Løsningen er accepteret af lokal linjeledelse | *Hvad menes der her?*| 2 |
-| <ul><li> [x] </li> | _Løsningen har tværkommunal potentiale (ikke et krav)_ | OS2iot enabler bla. deling af data, Gateways og payload dekoder på tværs | 2 |
-| <ul><li> [x] </li> | Ophæng til nationale strategier er til stede | Se [forretningsmæssige mål](https://os2.eu/produkt/os2iot) under gevinstkort. OS2iot er også i tråd med [kommunernes digitaliseringsprogram](shorturl.at/qHNR8)| 3 |
+|  <ul><li> [x] </li> | R1 | Løsningen skaber lokal værdi | Se [gevinstkort](https://os2.eu/produkt/os2iot) | 0 |
+| <ul><li> [x] </li> | R2 | Løsningen skaber potentielt værdi for andre | Se evt. [folderen om OS2iot](shorturl.at/nqrFS) | 1 | 
+| <ul><li> [ ] </li> |  R3 |Løsningen er accepteret af lokal linjeledelse | *Hvad menes der her?*| 2 |
+| <ul><li> [x] </li> | R4 | _Løsningen har tværkommunal potentiale (ikke et krav)_ | OS2iot enabler bla. deling af data, Gateways og payload dekoder på tværs | 2 |
+| <ul><li> [x] </li> |  R5 |Ophæng til nationale strategier er til stede | Se [forretningsmæssige mål](https://os2.eu/produkt/os2iot) under gevinstkort. OS2iot er også i tråd med [kommunernes digitaliseringsprogram](shorturl.at/qHNR8)| 3 |
 
 
 
