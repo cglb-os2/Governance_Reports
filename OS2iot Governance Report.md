@@ -1,6 +1,6 @@
 # OS2iot's Governance Report 
 
-//forslag nummere kravene R1,R2,R3, F1,F2,F3
+
 
 **RELEVANS**
 
@@ -55,7 +55,7 @@
 | <ul><li> [x] </li> | S2 | Løsningen understøtter innovation og Open Source | OS2iot understøtter innovation ved at være den første af sin art der samler administration af alle sensorer i en central platform. OS2iot er 100% Open Source | 1 |
 | <ul><li> [ ] </li> | S3 | Produktets kobling til OS2's vision og strategi er beskrevet | Hvor? | 2 |
 | <ul><li> [ ] </li> | S4 | Produktets kobling til OS2's vision og strategi er tilstede og beskrevet (duplicate?) | Hvor? | 3 |
-| <ul><li> [ ] </li> | S5 | _Produktet har en strategisk sammenhæng til nationale initiativer (ikke et krav)_  (duplicate med  | | 3 |
+| <ul><li> [ ] </li> | S5 | _Produktet har en strategisk sammenhæng til nationale initiativer (ikke et krav)_  **(duplicate med R5)**  | | 3 |
 
   
   
@@ -64,19 +64,19 @@
 **GOVERNANCE**
 |     |  #  | Krav | Henvisning | Niveau | 
 | --- | --- | ---  | -----------| ------ |
-| <ul><li> [ ] </li> | G1 | Produktet er oprettet i OS2's porteføljestyring | Indsæt link | 1 |
-| <ul><li> [ ] </li> | G2 | Der koordineres løbende med OS2-sekretariatet  |  | 1 |
-| <ul><li> [ ] </li> | G3 | Der er udpeget en projektleder/tovholder | Hvem? | 1 |
-| <ul><li> [ ] </li> | G4 | Bestyrelsen er orienteret | Kan udfyldes | 1 |
-| <ul><li> [ ] </li> | G5 | _En projektmodel anvendes (ikke et krav)_ | Kan udfyldes | 1 |
-| <ul><li> [ ] </li> | G6 | Bestyrelsen har godkendt produktet |  | 2 |
-| <ul><li> [ ] </li> | G7 | Der er nedsat en styregruppe |  | 2 |
-| <ul><li> [ ] </li> | G8 | _Der er nedsat en koordinationsgruppe (ikke et krav)_ |  | 2 |
-| <ul><li> [ ] </li> | G9 | _Projektmodellen er dokumenteret (ikke et krav)_ | Hvor? | 2 |
+| <ul><li> [x] </li> | G1 | Produktet er oprettet i OS2's porteføljestyring | https://os2.eu/produkter | 1 |
+| <ul><li> [x] </li> | G2 | Der koordineres løbende med OS2-sekretariatet  |  | 1 |
+| <ul><li> [x] </li> | G3 | Der er udpeget en projektleder/tovholder | Jonas Iversen, OS2 | 1 |
+| <ul><li> [x] </li> | G4 | Bestyrelsen er orienteret | Kan udfyldes | 1 |
+| <ul><li> [X] </li> | G5 | _En projektmodel anvendes (ikke et krav)_ | Projektet anvender Agile and Scrum by default. | 1 |
+| <ul><li> [x] </li> | G6 | Bestyrelsen har godkendt produktet | **Står det i et referat man kan henvise til?** | 2 |
+| <ul><li> [x] </li> | G7 | Der er nedsat en styregruppe | Se styregruppen [her](https://os2.eu/wiki/styregruppe-og-projektgruppe-os2iot-0)  | 2 |
+| <ul><li> [x] </li> | G8 | _Der er nedsat en koordinationsgruppe (ikke et krav)_ | Se koordinationsgruppen [her](https://os2.eu/wiki/styregruppe-og-projektgruppe-os2iot-0) | 2 |
+| <ul><li> [x] </li> | G9 | _Projektmodellen er dokumenteret (ikke et krav)_ | Se workflows i [JIRA](https://os2web.atlassian.net/secure/RapidBoard.jspa?rapidView=81&projectKey=IOT) | 2 |
 | <ul><li> [ ] </li> | G10 | _Review af kode foretages af tredjepart (ikke et krav)_ |  | 2 |
-| <ul><li> [ ] </li> | G11 | _Der er udarbejdet en tilslutningserklæring til sikring af økonomi (ikke et krav)_ | Hvor? | 2 |
-| <ul><li> [ ] </li> | G12 | Bestyrelsen har godkendt styregruppen |  | 3 |
-| <ul><li> [ ] </li> | G13 | Bestyrelsen har stemmemajoritet i styregruppen |  | 3 |
+| <ul><li> [x] </li> | G11 | _Der er udarbejdet en tilslutningserklæring til sikring af økonomi (ikke et krav)_ | Kan findes [her](https://os2.eu/dokument/os2iot-tilslutningsaftale) | 2 |
+| <ul><li> [x] </li> | G12 | Bestyrelsen har godkendt styregruppen | **Er der et referat jeg kan henvise til?** | 3 |
+| <ul><li> [x] </li> | G13 | Bestyrelsen har stemmemajoritet i styregruppen | 2/3 medlemmer af styregruppen er fra bestyrelsen | 3 |
 | <ul><li> [ ] </li> | G14 | Der foreligger en aftale der sikre økonomi til koordinerg og videreudvikling |  | 3 |
 | <ul><li> [ ] </li> | G15 | Der er etableret en faggruppe (Altid relevant?) |  | 3 |
   
