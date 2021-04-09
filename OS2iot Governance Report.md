@@ -36,7 +36,7 @@
 | <ul><li> [ ] </li> | F14 | Der er udarbejdet præsentationsmateriale af løsningen | Hvor? **(webinar PP?)** | 2 |
 | <ul><li> [ ] </li> | F15 | Best practice for implementering i organisationen dokumenteres **(er dette altid relevant?)** | Hvor? | 2 |
 | <ul><li> [x] </li> | F16 | Teknisk dokumentation indeholder best practice for kodestandarder | Hvor? | 2 |
-| <ul><li> [x] </li> | F17 | Drifts og vedligeholdelses setup er beskrevet **(duplicate?)** | Se dokumentationen [her](https://os2iot.readthedocs.io/en/latest/maintenance-guide/maintenance-guide.html) | 2 |
+| <ul><li> [x] </li> | F17 | Drifts og vedligeholdelses setup er beskrevet **(duplicate med F7?)** | Se dokumentationen [her](https://os2iot.readthedocs.io/en/latest/maintenance-guide/maintenance-guide.html) | 2 |
 | <ul><li> [x] </li> | F18 | Rammearkitekturen og standarder er fulgt og afvigelser er forklaret | Se afvigelse og forklaring [her](https://os2iot.readthedocs.io/en/latest/software-architecture/software-architecture.html?highlight=rammearkitektur#user-login-and-permissions)| 2 |
 | <ul><li> [x] </li> | F19 | _Løsningen er leveret i et containerformat fx docker (ikke et krav)_ | OS2iot er leveret som [Docker](https://github.com/OS2iot/OS2IoT-docker)  | 2 |
 | <ul><li> [x] </li> | F20 | _Uddanelses materiale er udarbejdet (ikke et krav)_ | Der er udarbejdet video tutorials [her](https://os2iot.os2.eu/#/#filters%5Btaxonomy%5D=type%253Aloop_documents_document%253Bloop_documents_collection%253Bexternal_sources&pager=0:15)| 2 |
