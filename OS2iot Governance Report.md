@@ -27,7 +27,7 @@
 | <ul><li> [x] </li> | F5 | Løsningens formål og værdi er beskrevet | Se [derfor skal du bruge denne løsning](https://os2.eu/produkt/os2iot)| 0 |
 | <ul><li> [x] </li> | F6 |Kildekoden er placeret på OS2's github | https://github.com/OS2iot | 1 |
 | <ul><li> [x] </li> | F7 |Driftskrav til løsningen er dokumenteret | Se dokumentationen [her](https://os2iot.readthedocs.io/en/latest/installation-guide/installation-guide.html)| 1 |
-| <ul><li> [x] </li> | F8 | Løsningen er dokumenteret på teknisk niveau  | Se dokumentationen [her]https://os2iot.readthedocs.io/en/latest/index.html | 1 |
+| <ul><li> [x] </li> | F8 | Løsningen er dokumenteret på teknisk niveau  | Se dokumentationen [her](https://os2iot.readthedocs.io/en/latest/index.html) | 1 |
 | <ul><li> [x] </li> | F9 | **Teknisk implementering af løsningen er dokumenteret** (hvad menes der helt præcis? dev installation? normal installation guides?)  | Se dokumentationen [her](https://os2iot.readthedocs.io/en/latest/maintenance-guide/maintenance-guide.html)| 1 |
 | <ul><li> [x] </li> | F10 | OS2's kommunikationskanaler anvendes (OS2.eu)   | https://os2.eu/produkt/os2iot + https://os2iot.os2.eu/ | 1 |
 | <ul><li> [x] </li> | F11 | OS2's værktøjer benyttes (Jira)  | [OS2iot's Jira](https://os2web.atlassian.net/secure/RapidBoard.jspa?rapidView=81&projectKey=IOT) | 1 |
