@@ -72,7 +72,7 @@
 | <ul><li> [x] </li> | G6 | Bestyrelsen har godkendt produktet | **Står det i et referat man kan henvise til?** | 2 |
 | <ul><li> [x] </li> | G7 | Der er nedsat en styregruppe | Se styregruppen [her](https://os2.eu/wiki/styregruppe-og-projektgruppe-os2iot-0)  | 2 |
 | <ul><li> [x] </li> | G8 | _Der er nedsat en koordinationsgruppe (ikke et krav)_ | Se koordinationsgruppen [her](https://os2.eu/wiki/styregruppe-og-projektgruppe-os2iot-0) | 2 |
-| <ul><li> [x] </li> | G9 | _Projektmodellen er dokumenteret (ikke et krav)_ | Se workflows i [JIRA](https://os2web.atlassian.net/secure/RapidBoard.jspa?rapidView=81&projectKey=IOT) | 2 |
+| <ul><li> [x] </li> | G9 | _Projektmodellen er dokumenteret (ikke et krav)_ **Hvad er definitionen er dokumentation i dette tilfælde? Duplicate med G5?** | Se workflows i [JIRA](https://os2web.atlassian.net/secure/RapidBoard.jspa?rapidView=81&projectKey=IOT) | 2 |
 | <ul><li> [ ] </li> | G10 | _Review af kode foretages af tredjepart (ikke et krav)_ |  | 2 |
 | <ul><li> [x] </li> | G11 | _Der er udarbejdet en tilslutningserklæring til sikring af økonomi (ikke et krav)_ | Kan findes [her](https://os2.eu/dokument/os2iot-tilslutningsaftale) | 2 |
 | <ul><li> [x] </li> | G12 | Bestyrelsen har godkendt styregruppen | **Er der et referat jeg kan henvise til?** | 3 |
