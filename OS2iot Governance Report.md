@@ -1,6 +1,6 @@
 # OS2iot's Governance Report 
 
-
+ikke et krav = anbefaling 
 
 **RELEVANS**
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- |
 |  <ul><li> [x] </li> | R1 | Løsningen skaber lokal værdi | Se [gevinstkort](https://os2.eu/produkt/os2iot) | 0 |
 | <ul><li> [x] </li> | R2 | Løsningen skaber potentielt værdi for andre | Se evt. [folderen om OS2iot](shorturl.at/nqrFS) | 1 | 
-| <ul><li> [ ] </li> |  R3 |Løsningen er accepteret af lokal linjeledelse | *Hvad menes der her?*| 2 |
+| <ul><li> [ ] </li> |  R3 |Løsningen er accepteret af lokal linjeledelse |Løsningen har lokal ledelses opbakning idet at der er kommuner der har underskrevet en tilslutningserklæring  | 2 |
 | <ul><li> [x] </li> | R4 | _Løsningen har tværkommunal potentiale (ikke et krav)_ | OS2iot enabler bla. tværkommunal deling af data, Gateways og payload dekoder og opbygning af tværkommunal IoT infrastruktur | 2 |
 | <ul><li> [x] </li> |  R5 |Ophæng til nationale strategier er til stede | Se [forretningsmæssige mål](https://os2.eu/produkt/os2iot) under gevinstkort. OS2iot er også i tråd med [kommunernes digitaliseringsprogram](shorturl.at/qHNR8)| 3 |
 
@@ -28,20 +28,20 @@
 | <ul><li> [x] </li> | F6 |Kildekoden er placeret på OS2's github | https://github.com/OS2iot | 1 |
 | <ul><li> [x] </li> | F7 |Driftskrav til løsningen er dokumenteret | Se dokumentationen [her](https://os2iot.readthedocs.io/en/latest/installation-guide/installation-guide.html)| 1 |
 | <ul><li> [x] </li> | F8 | Løsningen er dokumenteret på teknisk niveau  | Se dokumentationen [her](https://os2iot.readthedocs.io/en/latest/index.html) | 1 |
-| <ul><li> [x] </li> | F9 | **Teknisk implementering af løsningen er dokumenteret** (hvad menes der helt præcis? dev installation? normal installation guides?)  | Se dokumentationen [her](https://os2iot.readthedocs.io/en/latest/maintenance-guide/maintenance-guide.html)| 1 |
+| <ul><li> [x] </li> | F9 | Teknisk implementering af løsningen er dokumenteret  | Se OS2iot's installationsguide [her](https://os2iot.readthedocs.io/en/latest/maintenance-guide/maintenance-guide.html)| 1 |
 | <ul><li> [x] </li> | F10 | OS2's kommunikationskanaler anvendes (OS2.eu)   | https://os2.eu/produkt/os2iot + https://os2iot.os2.eu/ | 1 |
 | <ul><li> [x] </li> | F11 | OS2's værktøjer benyttes (Jira)  | [OS2iot's Jira](https://os2web.atlassian.net/secure/RapidBoard.jspa?rapidView=81&projectKey=IOT) | 1 |
 | <ul><li> [x] </li> | F12 | Der er kun en version af core koden (Master) |https://github.com/OS2iot| 2 |
 | <ul><li> [ ] </li> | F13 | Der er udarbejdet kommunikationsmateriale til strategisk niveau | Hvor? | 2 |
 | <ul><li> [ ] </li> | F14 | Der er udarbejdet præsentationsmateriale af løsningen | Hvor? **(webinar PP?)** | 2 |
-| <ul><li> [ ] </li> | F15 | Best practice for implementering i organisationen dokumenteres **(er dette altid relevant?)** | Hvor? | 2 |
+| <ul><li> [ ] </li> | F15 | Best practice for implementering i organisationen dokumenteres| til en start: video demonstration af oprettelse af brugere og sensorer, på sigt skal en kommune der har taget løsningen i brug dokumenteret hvad de gør e.g. der skal tages beslutning om adgangstyring, dokumentering af processen for oprettelse af sensorer og gateways. ved at have lavet en OS2iotviden, vil der også over tid blive opbygget en database for bestpractice for implementeringen | 2 |
 | <ul><li> [x] </li> | F16 | Teknisk dokumentation indeholder best practice for kodestandarder | Hvor? | 2 |
-| <ul><li> [x] </li> | F17 | Drifts og vedligeholdelses setup er beskrevet **(duplicate med F7?)** | Se dokumentationen [her](https://os2iot.readthedocs.io/en/latest/maintenance-guide/maintenance-guide.html) | 2 |
+| <ul><li> [x] </li> | F17 | Drifts og vedligeholdelses setup er beskrevet | Contribution fil, hvad tilbyder leverandører af drifts setup, henvisning til at der er sat en økonomi af til vedligeholdse.   | 2 |
 | <ul><li> [x] </li> | F18 | Rammearkitekturen og standarder er fulgt og/eller afvigelser er forklaret | Se forklaring af afvigelser [her](https://os2iot.readthedocs.io/en/latest/software-architecture/software-architecture.html?highlight=rammearkitektur#user-login-and-permissions)| 2 |
 | <ul><li> [x] </li> | F19 | _Løsningen er leveret i et containerformat fx docker (ikke et krav)_ | OS2iot er leveret som [Docker](https://github.com/OS2iot/OS2IoT-docker)  | 2 |
 | <ul><li> [x] </li> | F20 | _Uddannelsesmateriale er udarbejdet (ikke et krav)_ | Der er udarbejdet video tutorials [her](https://os2iot.os2.eu/#/#filters%5Btaxonomy%5D=type%253Aloop_documents_document%253Bloop_documents_collection%253Bexternal_sources&pager=0:15)| 2 |
 | <ul><li> [ ] </li> | F21 | Politisk kommunikation er udarbejdet (lokal + omverden) | Hvor? | 3 |
-| <ul><li> [ ] </li> | F22 |Procesplan + procesansvar for driftsimplementering er udarbejdet **(Altid relevant? indebærer præcis?) **| Hvor? | 3 |  
+| <ul><li> [ ] </li> | F22 | Procesplan + procesansvar for driftsimplementering er udarbejdet **(Altid relevant? indebærer fx hvem er ansvarlig for en opgave, hvilken rækkefølger skal implementeringen gøres i, se OS2MO ?) **| Hvor? | 3 |  
 
 
 
@@ -69,14 +69,14 @@
 | <ul><li> [x] </li> | G3 | Der er udpeget en projektleder/tovholder | Jonas Iversen, OS2 | 1 |
 | <ul><li> [x] </li> | G4 | Bestyrelsen er orienteret | Kan udfyldes | 1 |
 | <ul><li> [X] </li> | G5 | _En projektmodel anvendes (ikke et krav)_ | Projektet anvender Agile and Scrum by default | 1 |
-| <ul><li> [x] </li> | G6 | Bestyrelsen har godkendt produktet | **Står det i et referat man kan henvise til?** | 2 |
+| <ul><li> [x] </li> | G6 | Bestyrelsen har godkendt produktet | **Står det i et referat man kan henvise til? se referat ja, 17/08/2017 refer til det referat** | 2 |
 | <ul><li> [x] </li> | G7 | Der er nedsat en styregruppe | Se styregruppen [her](https://os2.eu/wiki/styregruppe-og-projektgruppe-os2iot-0)  | 2 |
 | <ul><li> [x] </li> | G8 | _Der er nedsat en koordinationsgruppe (ikke et krav)_ | Se koordinationsgruppen [her](https://os2.eu/wiki/styregruppe-og-projektgruppe-os2iot-0) | 2 |
-| <ul><li> [x] </li> | G9 | _Projektmodellen er dokumenteret (ikke et krav)_ **Hvad er definitionen er dokumentation i dette tilfælde? Duplicate med G5?** | Se workflows i [JIRA](https://os2web.atlassian.net/secure/RapidBoard.jspa?rapidView=81&projectKey=IOT) | 2 |
+| <ul><li> [x] </li> | G9 | _Projektmodellen er dokumenteret (ikke et krav)_ **Hvad er definitionen er dokumentation i dette tilfælde? Duplicate med G5, G5 skal skrives ind i G9 yes** | Se workflows i [JIRA](https://os2web.atlassian.net/secure/RapidBoard.jspa?rapidView=81&projectKey=IOT) | 2 |
 | <ul><li> [ ] </li> | G10 | _Review af kode foretages af tredjepart (ikke et krav)_ |  | 2 |
 | <ul><li> [x] </li> | G11 | _Der er udarbejdet en tilslutningserklæring til sikring af økonomi (ikke et krav)_ | Kan findes [her](https://os2.eu/dokument/os2iot-tilslutningsaftale) | 2 |
-| <ul><li> [x] </li> | G12 | Bestyrelsen har godkendt styregruppen | **Er der et referat jeg kan henvise til?** | 3 |
-| <ul><li> [x] </li> | G13 | Bestyrelsen har stemmemajoritet i styregruppen | 2/3 medlemmer af styregruppen er fra bestyrelsen | 3 |
+| <ul><li> [x] </li> | G12 | Bestyrelsen har godkendt styregruppen | **Er der et referat jeg kan henvise til?** Rasmus finder frem | 3 |
+| <ul><li> [x] </li> | G13 | Bestyrelsen er repræsenteret i styregruppen | Ja, 2/3 medlemmer af styregruppen er fra bestyrelsen | 3 |
 | <ul><li> [ ] </li> | G14 | Der foreligger en aftale der sikre økonomi til koordinerg og videreudvikling |  | 3 |
-| <ul><li> [ ] </li> | G15 | Der er etableret en faggruppe **(Altid relevant? anbefaler bør)** |  | 3 |
+| <ul><li> [ ] </li> | G15 | _Der er etableret et forum for erfaringsudviksling eller noget med at der er etableret en faggruppe_ **Kig på G15 i forhold til orginal og skriv den om så man tænker på et user community, faggruppe = 5 IT arkitekter sætter sig ned ...Der er etableret et community omkring produktet hvor fagfolk kan mødes og der er evt. etableret en faggruppe ** (Anbefaling) |  | 3 |
   
