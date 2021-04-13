@@ -1,6 +1,6 @@
 # OS2iot's Governance Report 
 
-ikke et krav = anbefaling 
+
 
 **RELEVANS**
 
@@ -8,7 +8,7 @@ ikke et krav = anbefaling
 | --- | --- | --- | --- | --- |
 |  <ul><li> [x] </li> | R1 | Løsningen skaber lokal værdi | Se [gevinstkort](https://os2.eu/produkt/os2iot) | 0 |
 | <ul><li> [x] </li> | R2 | Løsningen skaber potentielt værdi for andre | Se evt. [folderen om OS2iot](shorturl.at/nqrFS) | 1 | 
-| <ul><li> [ ] </li> |  R3 |Løsningen er accepteret af lokal linjeledelse |Løsningen har lokal ledelses opbakning idet at der er kommuner der har underskrevet en tilslutningserklæring  | 2 |
+| <ul><li> [ ] </li> |  R3 |Løsningen er accepteret af lokal linjeledelse | Løsningen har lokal ledelses opbakning idet at der er kommuner der har underskrevet en tilslutningserklæring  | 2 |
 | <ul><li> [x] </li> | R4 | _Løsningen har tværkommunal potentiale (anbefaling)_ | OS2iot enabler bla. tværkommunal deling af data, Gateways og payload dekoder og opbygning af tværkommunal IoT infrastruktur | 2 |
 | <ul><li> [x] </li> |  R5 |Ophæng til nationale strategier er til stede | Se [forretningsmæssige mål](https://os2.eu/produkt/os2iot) under gevinstkort. OS2iot er også i tråd med [kommunernes digitaliseringsprogram](shorturl.at/qHNR8)| 3 |
 
@@ -33,7 +33,7 @@ ikke et krav = anbefaling
 | <ul><li> [x] </li> | F11 | OS2's værktøjer benyttes (Jira)  | [OS2iot's Jira](https://os2web.atlassian.net/secure/RapidBoard.jspa?rapidView=81&projectKey=IOT) | 1 |
 | <ul><li> [x] </li> | F12 | Der er kun en version af core koden (Master) |https://github.com/OS2iot| 2 |
 | <ul><li> [ ] </li> | F13 | Der er udarbejdet kommunikationsmateriale til strategisk niveau | Hvor? | 2 |
-| <ul><li> [ ] </li> | F14 | Der er udarbejdet præsentationsmateriale af løsningen | Hvor? **(webinar PP?)** | 2 |
+| <ul><li> [x] </li> | F14 | Der er udarbejdet præsentationsmateriale af løsningen | Tilgås [her](https://os2.eu/dokument/praesentationer-fra-os2iot-webinar-offentlige-myndigheder-2021) | 2 |
 | <ul><li> [ ] </li> | F15 | Best practice for implementering i organisationen dokumenteres| til en start: video demonstration af oprettelse af brugere og sensorer, på sigt skal en kommune der har taget løsningen i brug dokumenteret hvad de gør e.g. der skal tages beslutning om adgangstyring, dokumentering af processen for oprettelse af sensorer og gateways. ved at have lavet en OS2iotviden, vil der også over tid blive opbygget en database for bestpractice for implementeringen | 2 |
 | <ul><li> [x] </li> | F16 | Teknisk dokumentation indeholder best practice for kodestandarder | Hvor? | 2 |
 | <ul><li> [x] </li> | F17 | Drifts og vedligeholdelses setup er beskrevet | Contribution fil, hvad tilbyder leverandører af drifts setup, henvisning til at der er sat en økonomi af til vedligeholdse.   | 2 |
