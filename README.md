@@ -2,7 +2,7 @@
 
 // Dette er OS2's governance checkliste der skal benyttes til at belyse niveauet af et OS2 produkt. Projektleder for et OS2 produkt? Lav en klon af denne fil du kalder navnet på produktet. Derefter udfylder du checklisten og uploader den til dette repository. 
 
-Du udfylder checklisten ved at skrive et x i de tomme [ ] ud for de krav produktet opfylder. Derudover udfylder du henvisningerne. Henvisningen må meget gerne være links, der forkortes med url shortner.  
+Du udfylder checklisten ved at skrive et x i de tomme [ ] ud for de krav produktet opfylder. Derudover udfylder du henvisningerne. Henvisningen må meget gerne være links, der forkortes ved at anvende hyperlinks = [tekst] (link). 
 
 
 
@@ -47,7 +47,7 @@ Du udfylder checklisten ved at skrive et x i de tomme [ ] ud for de krav produkt
 | <ul><li> [ ] </li> | _Løsningen er leveret i et containerformat fx docker (ikke et krav)_ |  | 2 |
 | <ul><li> [ ] </li> | _Uddanelses materiale er udarbejdet (ikke et krav)_ | Hvor? | 2 |
 | <ul><li> [ ] </li> | Politisk kommunikation er udarbejdet (Lokal + Omverden) | Hvor? | 3 |
-| <ul><li> [ ] </li> | Procesplan + procesansvar for driftsimplementering er udarbejdet (Altid relevant?) | Hvor? | 3 |  
+| <ul><li> [ ] </li> | Procesplan + procesansvar for driftsimplementering er udarbejdet ([eksemple](https://os2mo.readthedocs.io/en/development/operation/cookbook.html) ) | Hvor?  | 3 |  
 
 
 
@@ -60,8 +60,8 @@ Du udfylder checklisten ved at skrive et x i de tomme [ ] ud for de krav produkt
 | <ul><li> [ ] </li> | Produktet har en kobling til OS2's strategi | Kan udfyldes | 1 |
 | <ul><li> [ ] </li> | Løsningen understøtter innovation og Open Source | Hvordan? | 1 |
 | <ul><li> [ ] </li> | Produktets kobling til OS2's vision og strategi er beskrevet | Hvor? | 2 |
-| <ul><li> [ ] </li> | Produktets kobling til OS2's vision og strategi er tilstede og beskrevet (duplicate?) | Hvor? | 3 |
-| <ul><li> [ ] </li> | _Produktet har en strategisk sammenhæng til nationale initiativer (ikke et krav)_ | | 3 |
+| <ul><li> [ ] </li> | Produktets kobling til OS2's vision og strategi er tilstede og beskrevet **(duplicate med S3)** | Hvor? | 3 |
+| <ul><li> [ ] </li> | _Produktet har en strategisk sammenhæng til nationale initiativer (anbefaling)_ **(duplicate med R5)** | | 3 |
 
   
   
