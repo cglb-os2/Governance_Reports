@@ -24,7 +24,7 @@
 | <ul><li> [x] </li> | F2 |Open Source licenskriterier overholdes | MPL 2.0 og CC-BY-SA-4.0 vedtaget | 0 |
 | <ul><li> [X] </li> | F3 |Udbudsregler og alm. lovformidling er overholdt | ERST rammeaftale er anvendt retmæssigt | 0 |
 | <ul><li> [x] </li> | F4 |Der er tænkt på sikkerheden i løsningen | Se dokumentationen [her](https://os2iot.readthedocs.io/en/latest/user-interface-design/ui-design.html#security) og [her](https://os2iot.readthedocs.io/en/latest/external-interface-design/external-interface-design.html?highlight=security#security)| 0 |
-| <ul><li> [x] </li> | F5 | Løsningens formål og værdi er beskrevet | Se [derfor skal du bruge denne løsning](https://os2.eu/produkt/os2iot) + [hvorfor skal en kommune have en OS2iot server?] (https://os2.eu/blog/hvorfor-skal-en-kommune-have-en-os2iot-server)| 0 |
+| <ul><li> [x] </li> | F5 | Løsningens formål og værdi er beskrevet | Se [derfor skal du bruge denne løsning](https://os2.eu/produkt/os2iot) + [hvorfor skal en kommune have en OS2iot server?](https://os2.eu/blog/hvorfor-skal-en-kommune-have-en-os2iot-server)| 0 |
 | <ul><li> [x] </li> | F6 |Kildekoden er placeret på OS2's github | https://github.com/OS2iot | 1 |
 | <ul><li> [x] </li> | F7 |Driftskrav til løsningen er dokumenteret | Se dokumentationen [her](https://os2iot.readthedocs.io/en/latest/installation-guide/installation-guide.html)| 1 |
 | <ul><li> [x] </li> | F8 | Løsningen er dokumenteret på teknisk niveau  | Se dokumentationen [her](https://os2iot.readthedocs.io/en/latest/index.html) | 1 |
@@ -53,9 +53,9 @@
 | --- | --- | ---- | ---------- |--------|
 | <ul><li> [x] </li> | S1 | Produktet har en kobling til OS2's strategi | Kan udfyldes (Her burde der være et link til OS2's strategi | 1 |
 | <ul><li> [x] </li> | S2 | Løsningen understøtter innovation og Open Source | OS2iot understøtter innovation ved at være den første af sin art der samler administration af alle sensorer i en central platform. OS2iot er 100% Open Source | 1 |
-| <ul><li> [ ] </li> | S3 | Produktets kobling til OS2's vision og strategi er beskrevet | Hvor? | 2 |
-| <ul><li> [ ] </li> | S4 | Produktets kobling til OS2's vision og strategi er tilstede og beskrevet (duplicate med S3?) | Hvor? | 3 |
-| <ul><li> [ ] </li> | S5 | _Produktet har en strategisk sammenhæng til nationale initiativer (anbefaling)_  **(duplicate med R5)**  | | 3 |
+| <ul><li> [ ] </li> | S3 | Produktets (forventlige) kobling til OS2's vision og strategi er beskrevet | Hvor? | 2 |
+| <ul><li> [ ] </li> | S4 | Produktets kobling til og overensstemmelse med OS2's vision og strategi er tilstede og beskrevet | Hvordan? | 3 |
+
 
   
   
@@ -68,15 +68,14 @@
 | <ul><li> [x] </li> | G2 | Der koordineres løbende med OS2-sekretariatet  |  | 1 |
 | <ul><li> [x] </li> | G3 | Der er udpeget en projektleder/tovholder | Jonas Iversen, OS2 | 1 |
 | <ul><li> [x] </li> | G4 | Bestyrelsen er orienteret | Kan udfyldes | 1 |
-| <ul><li> [X] </li> | G5 | _En projektmodel anvendes (anbefaling)_ | Projektet anvender Agile and Scrum by default | 1 |
-| <ul><li> [x] </li> | G6 | Bestyrelsen har godkendt produktet | Se referatet fra bestyrelses mødet [her](https://os2.eu/sites/default/files/documents/dagsorden_og_referat_-_os2_bestyrelsesmoede_17-08-2017.pdf)  | 2 |
-| <ul><li> [x] </li> | G7 | Der er nedsat en styregruppe | Se styregruppen [her](https://os2.eu/wiki/styregruppe-og-projektgruppe-os2iot-0)  | 2 |
-| <ul><li> [x] </li> | G8 | _Der er nedsat en koordinationsgruppe (anbefaling)_ | Se koordinationsgruppen [her](https://os2.eu/wiki/styregruppe-og-projektgruppe-os2iot-0) | 2 |
-| <ul><li> [x] </li> | G9 | _Projektmodellen er dokumenteret (anbefaling)_ **Hvad er definitionen er dokumentation i dette tilfælde? Duplicate med G5, G5 skal skrives ind i G9 yes** | Se workflows i [JIRA](https://os2web.atlassian.net/secure/RapidBoard.jspa?rapidView=81&projectKey=IOT) | 2 |
-| <ul><li> [ ] </li> | G10 | _Review af kode foretages af tredjepart (anbefaling)_ |  | 2 |
-| <ul><li> [x] </li> | G11 | _Der er udarbejdet en tilslutningserklæring til sikring af økonomi (anbefaling)_ | Kan findes [her](https://os2.eu/dokument/os2iot-tilslutningsaftale) | 2 |
-| <ul><li> [x] </li> | G12 | Bestyrelsen har godkendt styregruppen | **Er der et referat jeg kan henvise til?** Rasmus finder frem | 3 |
-| <ul><li> [x] </li> | G13 | Bestyrelsen er repræsenteret i styregruppen | Ja, 2/3 medlemmer af styregruppen er fra bestyrelsen | 3 |
-| <ul><li> [ ] </li> | G14 | Der foreligger en aftale der sikre økonomi til koordinerg og videreudvikling |  | 3 |
-| <ul><li> [ ] </li> | G15 | _Der er etableret et forum for erfaringsudviksling eller noget med at der er etableret en faggruppe_ **Kig på G15 i forhold til orginal og skriv den om så man tænker på et user community, faggruppe = 5 IT arkitekter sætter sig ned ...Der er etableret et community omkring produktet hvor fagfolk kan mødes og der er evt. etableret en faggruppe ** (Anbefaling) |  | 3 |
+| <ul><li> [x] </li> | G5 | Bestyrelsen har godkendt produktet | Se referatet fra bestyrelses mødet [her](https://os2.eu/sites/default/files/documents/dagsorden_og_referat_-_os2_bestyrelsesmoede_17-08-2017.pdf)  | 2 |
+| <ul><li> [x] </li> | G6 | Der er nedsat en styregruppe | Se styregruppen [her](https://os2.eu/wiki/styregruppe-og-projektgruppe-os2iot-0)  | 2 |
+| <ul><li> [x] </li> | G7 | _Der er nedsat en koordinationsgruppe (anbefaling)_ | Se koordinationsgruppen [her](https://os2.eu/wiki/styregruppe-og-projektgruppe-os2iot-0) | 2 |
+| <ul><li> [x] </li> | G8 | _En projektmodel anvendes og er dokumenteret (anbefaling)_  | Projektet anvender Agile and Scrum by default. Dokumenteret i [jira](https://os2web.atlassian.net/secure/RapidBoard.jspa?rapidView=81&projectKey=IOT) | 2 |
+| <ul><li> [ ] </li> | G9 | _Review af kode foretages af tredjepart (anbefaling)_ |  | 2 |
+| <ul><li> [x] </li> | G10 | _Der er udarbejdet en tilslutningserklæring til sikring af økonomi (anbefaling)_ | Kan findes [her](https://os2.eu/dokument/os2iot-tilslutningsaftale) | 2 |
+| <ul><li> [x] </li> | G11 | Bestyrelsen har godkendt styregruppen | **Er der et referat jeg kan henvise til?** Rasmus finder frem | 3 |
+| <ul><li> [x] </li> | G12 | Bestyrelsen er repræsenteret i styregruppen | Ja, 2/3 medlemmer af styregruppen er fra bestyrelsen | 3 |
+| <ul><li> [x] </li> | G13 | Der foreligger en aftale der sikre økonomi til koordinerg og videreudvikling | Tilslutningsaftalen (jf. G10) kommunerne har underskrevet sikre dette  | 3 |
+| <ul><li> [x] </li> | G14 |Der er etableret et fagligt fælleskab bag løsningen hvor erfaringer kan udveksles | [OS2iot's user-forum](https://os2iot.os2.eu/) anvendes til dette formål. På sigt skal der etableres en dedikeret faggruppe. | 3 |
   
