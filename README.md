@@ -4,7 +4,8 @@
 
 Du udfylder checklisten ved at skrive et x i de tomme [ ] ud for de krav produktet opfylder. Derudover udfylder du henvisningerne. Henvisningen må meget gerne være links, der forkortes ved at anvende hyperlinks = [tekst](link). 
 
-Se OS2iot Governance report for eksemple.  
+Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports/blob/33b3a24b97b02f93fe9485be82c2dde1a3b35913/OS2iot%20Governance%20Report.md) for eksemple. 
+
 
 
 
