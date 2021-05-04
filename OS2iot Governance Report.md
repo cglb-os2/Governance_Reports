@@ -79,7 +79,7 @@
 | <ul><li> [x] </li> | G8 | _En projektmodel anvendes og er dokumenteret (anbefaling)_  | Projektet anvender Agile and Scrum by default. Dokumenteret i [jira](https://os2web.atlassian.net/secure/RapidBoard.jspa?rapidView=81&projectKey=IOT) | 2 |
 | <ul><li> [ ] </li> | G9 | _Review af kode foretages af tredjepart (anbefaling)_ |  | 2 |
 | <ul><li> [x] </li> | G10 | _Der er udarbejdet en tilslutningserklæring til sikring af økonomi (anbefaling)_ | Kan findes [her](https://os2.eu/dokument/os2iot-tilslutningsaftale) | 2 |
-| <ul><li> [x] </li> | G11 | Bestyrelsen har godkendt styregruppen | **Er der et referat jeg kan henvise til?** Rasmus finder frem | 3 |
+| <ul><li> [x] </li> | G11 | Bestyrelsen har godkendt styregruppen | Se [følgende](https://os2.eu/sites/default/files/documents/referat_og_dagsorden_-_os2_bestyrelsesmoede_23052019.pdf) referat | 3 |
 | <ul><li> [x] </li> | G12 | Bestyrelsen er repræsenteret i styregruppen | Ja, 2/3 medlemmer af styregruppen er fra bestyrelsen | 3 |
 | <ul><li> [x] </li> | G13 | Der foreligger en aftale der sikre økonomi til koordinerg og videreudvikling | Tilslutningsaftalen (jf. G10) kommunerne har underskrevet sikre dette  | 3 |
 | <ul><li> [x] </li> | G14 |Der er etableret et fagligt fælleskab bag løsningen hvor erfaringer kan udveksles | [OS2iot's user-forum](https://os2iot.os2.eu/) anvendes til dette formål. På sigt skal der etableres en dedikeret faggruppe. | 3 |
