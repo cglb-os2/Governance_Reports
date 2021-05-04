@@ -13,7 +13,8 @@
 | <ul><li> [x] </li> |  R5 |Ophæng til nationale strategier er til stede | Se [forretningsmæssige mål](https://os2.eu/produkt/os2iot) under gevinstkort. OS2iot er også i tråd med [kommunernes digitaliseringsprogram](shorturl.at/qHNR8)| 3 |
 
 
-
+<br>
+<br>
 
 
 **FORMKRAV**
@@ -43,6 +44,8 @@
 | <ul><li> [x] </li> | F21 | Politisk kommunikation er udarbejdet (lokal + omverden) | Se [følgende](https://os2.eu/blog/hvorfor-skal-en-kommune-have-en-os2iot-server) artikel | 3 |
 | <ul><li> [ ] </li> | F22 | Procesplan + procesansvar for driftsimplementering er udarbejdet | Hvor? | 3 |  
 
+<br>
+<br>
 
 
 
@@ -57,7 +60,9 @@
 | <ul><li> [ ] </li> | S4 | Produktets kobling til og overensstemmelse med OS2's vision og strategi er tilstede og beskrevet | Hvordan? | 3 |
 
 
-  
+<br>
+<br>
+
   
   
 
