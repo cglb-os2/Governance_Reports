@@ -79,7 +79,7 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 | <ul><li> [ ] </li> | G5 | Bestyrelsen har godkendt produktet | fx link til referat | 2 |
 | <ul><li> [ ] </li> | G6 | Der er nedsat en styregruppe |  | 2 |
 | <ul><li> [ ] </li> | G7 | _Der er nedsat en koordinationsgruppe (anbefaling)_ |  | 2 |
-| <ul><li> [ ] </li> | G8 | _ En projektmodel anvendes og er dokumenteret (anbefaling)_ | Hvor? | 2 |
+| <ul><li> [ ] </li> | G8 | _En projektmodel anvendes og er dokumenteret (anbefaling)_ | Hvor? | 2 |
 | <ul><li> [ ] </li> | G9 | _Review af kode foretages af tredjepart (anbefaling)_ |  | 2 |
 | <ul><li> [ ] </li> | G10 | _Der er udarbejdet en tilslutningserklæring til sikring af økonomi (anbefaling)_ | Hvor? | 2 |
 | <ul><li> [ ] </li> | G11 | Bestyrelsen har godkendt styregruppen |  | 3 |
