@@ -21,6 +21,8 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 | <ul><li> [ ] </li> | R5 | Ophæng til nationale strategier er til stede | Hvordan/hvilke? | 3 |
 
 
+<br>
+<br>
 
 
 
@@ -52,6 +54,8 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 | <ul><li> [ ] </li> | F22 | Procesplan + procesansvar for driftsimplementering er udarbejdet | Hvor? ([eksemple](https://os2mo.readthedocs.io/en/development/operation/cookbook.html) ) | 3 |  
 
 
+<br>
+<br>
 
 
 
@@ -65,9 +69,12 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 | <ul><li> [ ] </li> | S4 | Produktets kobling til og overensstemmelse med OS2's vision og strategi er tilstede og beskrevet | Hvordan? | 3 |
 
 
+
+<br>
+<br>
+
   
-  
-  
+    
 
 **GOVERNANCE**
 |     | Krav | Henvisning | Niveau | 
