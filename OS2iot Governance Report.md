@@ -76,7 +76,7 @@
 | <ul><li> [x] </li> | G5 | Bestyrelsen har godkendt produktet | Se referatet fra bestyrelses mødet [her](https://os2.eu/sites/default/files/documents/dagsorden_og_referat_-_os2_bestyrelsesmoede_17-08-2017.pdf)  | 2 |
 | <ul><li> [x] </li> | G6 | Der er nedsat en styregruppe | Se styregruppen [her](https://os2.eu/wiki/styregruppe-og-projektgruppe-os2iot-0)  | 2 |
 | <ul><li> [x] </li> | G7 | _Der er nedsat en koordinationsgruppe (anbefaling)_ | Se koordinationsgruppen [her](https://os2.eu/wiki/styregruppe-og-projektgruppe-os2iot-0) | 2 |
-| <ul><li> [x] </li> | G8 | _En projektmodel anvendes og er dokumenteret (anbefaling)_  | Projektet anvender Agile and Scrum by default. Dokumenteret i [jira](https://os2web.atlassian.net/secure/RapidBoard.jspa?rapidView=81&projectKey=IOT) | 2 |
+| <ul><li> [x] </li> | G8 | _En projektmodel anvendes og er dokumenteret (anbefaling)_  | Projektet anvender Agile and Scrum by default. Arbejdsprocesser dokumenteret i [jira](https://os2web.atlassian.net/wiki/spaces/O/pages/1044185100/Arbejdsprocesser) | 2 |
 | <ul><li> [ ] </li> | G9 | _Review af kode foretages af tredjepart (anbefaling)_ |  | 2 |
 | <ul><li> [x] </li> | G10 | _Der er udarbejdet en tilslutningserklæring til sikring af økonomi (anbefaling)_ | Kan findes [her](https://os2.eu/dokument/os2iot-tilslutningsaftale) | 2 |
 | <ul><li> [x] </li> | G11 | Bestyrelsen har godkendt styregruppen | Se [følgende](https://os2.eu/sites/default/files/documents/referat_og_dagsorden_-_os2_bestyrelsesmoede_23052019.pdf) referat | 3 |
