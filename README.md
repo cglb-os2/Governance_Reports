@@ -28,8 +28,8 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 
 **FORMKRAV**
 
-|     | Krav | Henvisning | Niveau | 
-| --- | --- | --- | --- |
+|     |  #  | Krav | Henvisning | Niveau | 
+| --- | --- | --- | --- | --- |
 | <ul><li> [ ] </li> | F1 | Kildekoden deles | Indsæt link | 0 |
 | <ul><li> [ ] </li> | F2 | Open Soruce licenskriterier overholdes | Indsæt vedtaget licens | 0 |
 | <ul><li> [ ] </li> | F3 | Udbudsregler og alm. lovformidling er overholdt | Kan udfyldes | 0 |
@@ -61,8 +61,8 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 
 **STRATEGISK SAMMENHÆNG**
 
-|     | Krav | Henvisning | Niveau | 
-| --- | --- | --- | --- |
+|     |  #  | Krav | Henvisning | Niveau | 
+| --- | --- | --- | --- | --- |
 | <ul><li> [ ] </li> | S1 | Produktet har en kobling til OS2's strategi (indsæt link til OS2's strategi) | Hvordan? | 1 |
 | <ul><li> [ ] </li> | S2 | Løsningen understøtter innovation og Open Source | Hvordan? | 1 |
 | <ul><li> [ ] </li> | S3 | Produktets (forventlige) kobling til OS2's vision og strategi er beskrevet| Hvor? | 2 |
@@ -77,8 +77,9 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
     
 
 **GOVERNANCE**
-|     | Krav | Henvisning | Niveau | 
-| --- | --- | --- | --- |
+
+|     |  #  | Krav | Henvisning | Niveau | 
+| --- | --- | --- | --- | --- |
 | <ul><li> [ ] </li> | G1 | Produktet er oprettet i OS2's porteføljestyring | Indsæt link | 1 |
 | <ul><li> [ ] </li> | G2 | Der koordineres løbende med OS2-sekretariatet  |  | 1 |
 | <ul><li> [ ] </li> | G3 | Der er udpeget en projektleder/tovholder | Hvem? | 1 |
