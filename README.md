@@ -45,7 +45,7 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 | <ul><li> [ ] </li> | F13 | Der er udarbejdet kommunikationsmateriale til strategisk niveau | Hvor? | 2 |
 | <ul><li> [ ] </li> | F14 | Der er udarbejdet præsentationsmateriale af løsningen | Hvor? | 2 |
 | <ul><li> [ ] </li> | F15 | Best practice for implementering i organisationen dokumenteres | Hvor? | 2 |
-| <ul><li> [ ] </li> | F16 | Teknisk dokumentation indeholder best practice for kodestandarder | F4 | Hvor? | 2 |
+| <ul><li> [ ] </li> | F16 | Teknisk dokumentation indeholder best practice for kodestandarder | Hvor? | 2 |
 | <ul><li> [ ] </li> | F17 | Drifts og vedligeholdelses setup er beskrevet | Hvem drifter løsningen? er der sat økonomi af til vedligholdelse? | 2 |
 | <ul><li> [ ] </li> | F18 | Rammearkitekturen og standarder er fulgt og afvigelser er forklaret |  | 2 |
 | <ul><li> [ ] </li> | F19 | _Løsningen er leveret i et containerformat fx docker (anbefaling)_ |  | 2 |
