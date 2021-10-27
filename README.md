@@ -91,7 +91,7 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 | <ul><li> [ ] </li> | G9 | _Review af kode foretages af tredjepart (anbefaling)_ |  | 2 |
 | <ul><li> [ ] </li> | G10 | _Der er udarbejdet en tilslutningserklæring til sikring af økonomi (anbefaling)_ | Hvor? | 2 |
 | <ul><li> [ ] </li> | G11 | Bestyrelsen har godkendt styregruppen |  | 3 |
-| <ul><li> [ ] </li> | G12 |Bestyrelsen har stemmemajoritet i styregruppen |  | 3 |
+| <ul><li> [ ] </li> | G12 | Bestyrelsen er repræsenteret i styregruppen |  | 3 |
 | <ul><li> [ ] </li> | G13 | Der foreligger en aftale der sikre økonomi til koordinerg og videreudvikling |  | 3 |
 | <ul><li> [ ] </li> | G14 | Der er etableret et fagligt fælleskab bag løsningen hvor erfaringer kan udveksles | Henvisning til en faggruppe eller et forum | 3 |
   
