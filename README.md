@@ -1,4 +1,4 @@
-## INDSÆT NAVNET PÅ PRODUKTET 
+OS2rollekatalog
 
 // Dette er OS2's governance checkliste der skal benyttes til at belyse niveauet af et OS2 produkt. Projektleder for et OS2 produkt? Lav en klon af denne fil du kalder navnet på produktet. Derefter udfylder du checklisten og uploader den til dette repository. 
 
@@ -14,11 +14,11 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 
 |     |  #  | Krav | Henvisning | Niveau | 
 | --- | --- | --- | --- | --- |
-| <ul><li> [x] </li> | R1 | Løsningen skaber lokal værdi | Hvordan?  | 0 |
-| <ul><li> [ ] </li> | R2 | Løsningen skaber potentielt værdi for andre | Hvordan?  | 1 | 
-| <ul><li> [ ] </li> | R3 | Løsningen er accepteret af lokal linjeledelse | fx tilslutningserklæring | 2 |
-| <ul><li> [ ] </li> | R4 | _Løsningen har tværkommunal potentiale (anbefaling)_ | Hvordan? | 2 |
-| <ul><li> [ ] </li> | R5 | Ophæng til nationale strategier er til stede | Hvordan/hvilke? | 3 |
+| <ul><li> [x] </li> | R1 | Løsningen skaber lokal værdi | Løsningen hjælper autorisationsansvarlige og ledere med at holde styr på at medarbejdere har de korrekte roller og rettigheder på tværs af systemer  | 0 |
+| <ul><li> [x] </li> | R2 | Løsningen skaber potentielt værdi for andre | Alle kommuner har et stadigt stigende behov for at kunne styre, dokumentere og have overblik over data på tværs af systemer. Derfor har OS2rollekatalog potientiale til at løfte den opgave for alle 98 kommuner | 1 | 
+| <ul><li> [x] </li> | R3 | Løsningen er accepteret af lokal linjeledelse | 32 kommunale ledere har skrevet under på tilslutningserklæringen| 2 |
+| <ul><li> [x] </li> | R4 | _Løsningen har tværkommunal potentiale (anbefaling)_ | Løsningen anvendes i dag i 32 kommuner | 2 |
+| <ul><li> [x] </li> | R5 | Ophæng til nationale strategier er til stede | OS2rollekatalog udspringer af en vision om, at tage den kommunale rammearkitektur i brug. . Løsningen basserer sig på komponenterne Organisation og klassifikations , der anvendes som datagrundlag for opfølgning, attestering og styring af rettighedsanmodning og godkenkendelse.| 3 |
 
 
 <br>
