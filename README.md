@@ -18,7 +18,7 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 | <ul><li> [x] </li> | R2 | Løsningen skaber potentielt værdi for andre | Alle kommuner har et stadigt stigende behov for at kunne styre, dokumentere og have overblik over data på tværs af systemer. Derfor har OS2rollekatalog potientiale til at løfte den opgave for alle 98 kommuner | 1 | 
 | <ul><li> [x] </li> | R3 | Løsningen er accepteret af lokal linjeledelse | 32 kommunale ledere har skrevet under på tilslutningserklæringen| 2 |
 | <ul><li> [x] </li> | R4 | _Løsningen har tværkommunal potentiale (anbefaling)_ | Løsningen anvendes i dag i 32 kommuner | 2 |
-| <ul><li> [x] </li> | R5 | Ophæng til nationale strategier er til stede | OS2rollekatalog udspringer af en vision om, at tage den kommunale rammearkitektur i brug. . Løsningen basserer sig på komponenterne Organisation og klassifikations , der anvendes som datagrundlag for opfølgning, attestering og styring af rettighedsanmodning og godkenkendelse.| 3 |
+| <ul><li> [x] </li> | R5 | Ophæng til nationale strategier er til stede | OS2rollekatalog følger referencearkitektureren for brugerstyryring ligesom løsningen gør brug af den Fælleskommunale infrastruktur i form af støttesystemerne| 3 |
 
 
 <br>
@@ -30,13 +30,13 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 
 |     |  #  | Krav | Henvisning | Niveau | 
 | --- | --- | --- | --- | --- |
-| <ul><li> [ ] </li> | F1 | Kildekoden deles | Indsæt link | 0 |
-| <ul><li> [ ] </li> | F2 | Open Soruce licenskriterier overholdes | Indsæt vedtaget licens | 0 |
-| <ul><li> [ ] </li> | F3 | Udbudsregler og alm. lovformidling er overholdt | Kan udfyldes | 0 |
+| <ul><li> [x] </li> | F1 | Kildekoden deles | https://github.com/OS2rollekatalog/OS2rollekatalog | 0 |
+| <ul><li> [x] </li> | F2 | Open Soruce licenskriterier overholdes | Mozilla Public License Version 2.0 | 0 |
+| <ul><li> [x] </li> | F3 | Udbudsregler og alm. lovformidling er overholdt | ja | 0 |
 | <ul><li> [ ] </li> | F4 | Der er tænkt på sikkerheden i løsningen | Hvordan? | 0 |
-| <ul><li> [ ] </li> | F5 | Løsningens formål og værdi er beskrevet | Hvor? | 0 |
-| <ul><li> [ ] </li> | F6 | Kildekoden er placeret på OS2's github | Indsæt link | 1 |
-| <ul><li> [ ] </li> | F7 | Driftskrav til løsningen er dokumenteret | Hvor? | 1 |
+| <ul><li> [x] </li> | F5 | Løsningens formål og værdi er beskrevet | https://os2.eu/produkt/os2rollekatalog | 0 |
+| <ul><li> [x] </li> | F6 | Kildekoden er placeret på OS2's github | https://github.com/OS2rollekatalog/OS2rollekatalog| 1 |
+| <ul><li> [ ] </li> | F7 | Driftskrav til løsningen er dokumenteret |  | 1 |
 | <ul><li> [ ] </li> | F8 | Løsningen er dokumenteret på teknisk niveau  | Hvor? | 1 |
 | <ul><li> [ ] </li> | F9 | Teknisk implementering af løsningen er dokumenteret  | Hvor? | 1 |
 | <ul><li> [ ] </li> | F10 | OS2's kommunikationskanaler anvendes (OS2.eu)   | Indsæt link(s) | 1 |
