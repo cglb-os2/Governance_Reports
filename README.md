@@ -33,9 +33,9 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 | <ul><li> [x] </li> | F1 | Kildekoden deles | <a href="https://github.com/OS2rollekatalog/OS2rollekatalog">her</a> | 0 |
 | <ul><li> [x] </li> | F2 | Open Soruce licenskriterier overholdes | Mozilla Public License Version 2.0 | 0 |
 | <ul><li> [x] </li> | F3 | Udbudsregler og alm. lovformidling er overholdt | ja | 0 |
-| <ul><li> [x] </li> | F4 | Der er tænkt på sikkerheden i løsningen | Sikkerheden er beskrevet her: https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Rollekataloget%20-%20Sikkerhed.docx samt her https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Sikring%20af%20driftsmilj%C3%B8et.pdf | 0 |
-| <ul><li> [x] </li> | F5 | Løsningens formål og værdi er beskrevet | https://os2.eu/produkt/os2rollekatalog | 0 |
-| <ul><li> [x] </li> | F6 | Kildekoden er placeret på OS2's github | https://github.com/OS2rollekatalog/OS2rollekatalog| 1 |
+| <ul><li> [x] </li> | F4 | Der er tænkt på sikkerheden i løsningen | Sikkerheden er beskrevet <a href="https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Rollekataloget%20-%20Sikkerhed.docx">her</a>:   samt <a href="https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Sikring%20af%20driftsmilj%C3%B8et.pdf">her</a>  | 0 |
+| <ul><li> [x] </li> | F5 | Løsningens formål og værdi er beskrevet |<a href="https://os2.eu/produkt/os2rollekatalog">her</a></p>  | 0 |
+| <ul><li> [x] </li> | F6 | Kildekoden er placeret på OS2's github | <a href="https://github.com/OS2rollekatalog/OS2rollekatalog">her</a></p>| 1 |
 | <ul><li> [x] </li> | F7 | Driftskrav til løsningen er dokumenteret | https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Rollekataloget%20-%20Drift.docx | 1 |
 | <ul><li> [x] </li> | F8 | Løsningen er dokumenteret på teknisk niveau  | https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Rollekataloget%20-%20Developer%20Guide.docx | 1 |
 | <ul><li> [x] </li> | F9 | Teknisk implementering af løsningen er dokumenteret  |https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Rollekataloget%20-%20Implementeringsvejledning.docx| 1 |
