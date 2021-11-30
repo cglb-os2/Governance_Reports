@@ -51,7 +51,7 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 | <ul><li> [x] </li> | F19 | _Løsningen er leveret i et containerformat fx docker (anbefaling)_ | ja | 2 |
 | <ul><li> [x] </li> | F20 | _Uddanelses materiale er udarbejdet (anbefaling)_ | Der er udarbejdet præsentationsvideo og implementeringshåndbog. Derudover bliver brugervejledningen løbene opdateret. | 2 |
 | <ul><li> [x] </li> | F21 | Politisk kommunikation er udarbejdet (Lokal + Omverden) | <a href="https://os2.eu/blog/blog-one-size-fits-all">her</a></p> | 3 |
-| <ul><li> [x] </li> | F22 | Procesplan + procesansvar for driftsimplementering er udarbejdet | Implementeringsguide findes <a href="</p>https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Rollekataloget%20-%20Implementeringsvejledning.docx">her</a> Notat om sikring af driftsmiljø findes <a href="https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Sikring%20af%20driftsmilj%C3%B8et.pdf">her</a></p>   | 3 |  
+| <ul><li> [x] </li> | F22 | Procesplan + procesansvar for driftsimplementering er udarbejdet | Implementeringsguide findes <a href="https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Rollekataloget%20-%20Implementeringsvejledning.docx">her</a> Notat om sikring af driftsmiljø findes <a href="https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Sikring%20af%20driftsmilj%C3%B8et.pdf">her</a></p>   | 3 |  
 
 
 <br>
