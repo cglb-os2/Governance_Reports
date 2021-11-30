@@ -30,7 +30,7 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 
 |     |  #  | Krav | Henvisning | Niveau | 
 | --- | --- | --- | --- | --- |
-| <ul><li> [x] </li> | F1 | Kildekoden deles | https://github.com/OS2rollekatalog/OS2rollekatalog | 0 |
+| <ul><li> [x] </li> | F1 | Kildekoden deles | <a href="https://github.com/OS2rollekatalog/OS2rollekatalog">her</a> | 0 |
 | <ul><li> [x] </li> | F2 | Open Soruce licenskriterier overholdes | Mozilla Public License Version 2.0 | 0 |
 | <ul><li> [x] </li> | F3 | Udbudsregler og alm. lovformidling er overholdt | ja | 0 |
 | <ul><li> [x] </li> | F4 | Der er tænkt på sikkerheden i løsningen | Sikkerheden er beskrevet her: https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Rollekataloget%20-%20Sikkerhed.docx samt her https://github.com/OS2rollekatalog/OS2rollekatalog/blob/master/doc/Sikring%20af%20driftsmilj%C3%B8et.pdf | 0 |
